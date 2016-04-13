@@ -1,0 +1,53 @@
+3
+name1
+pass
+false
+name1
+name0
+Hello World!
+package apackage;
+public class aClass {
+    public static void main(String[] args) {
+       System.out.print("Hello World!");
+    }
+}
+false
+name0
+name1
+RE: Hello World!
+Better do it:
+public class Aclass {
+false
+name1
+name0
+RE: RE: Hello World!
+Thanks
+4
+name0
+pass
+false
+name1
+name0
+Hello World!
+package apackage;
+public class aClass {
+    public static void main(String[] args) {
+       System.out.print("Hello World!");
+    }
+}
+false
+name0
+name1
+RE: Hello World!
+Better do it:
+public class Aclass {
+true
+name1
+name0
+RE: RE: Hello World!
+Thanks
+false
+name0
+aClientThatDoesNotExist
+No problem
+Server will not sent it to noone but you will keep the mail
